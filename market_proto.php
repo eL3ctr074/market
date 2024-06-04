@@ -39,7 +39,7 @@ class OrderController {
     // Метод для создания заказа в базе данных 
     private function createOrder($userId, $cartItems, $cityId) {
         // Генерация идентификатора заказа 
-        $orderId = uniqid('order_');
+        $orderId = uniqid('order_id');
         
         // Запись информации о заказе в базу данных 
         // Возвращаем идентификатор созданного заказа
