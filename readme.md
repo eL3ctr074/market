@@ -9,7 +9,7 @@
         - Бывают проблемы с гибкостью схемы данных при необходимости внесния изменений
 
 **2. Схема маркета**
-    ![Схема маркета]([https://ibb.co/6rDbc8F](https://i.ibb.co/ydg5mpq/sekrana.png))
+    ![Схема маркета](https://i.ibb.co/ydg5mpq/sekrana.png))
 
     [def]: https://ibb.co/6rDbc8F
 
