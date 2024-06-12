@@ -22,4 +22,4 @@
         product->order_elements
         subcategories->products
 **3. Прототип API оформления заказа**
-    Код прототипа находится в репозитория название файла [Файл с прототипом](market_proto.php)
+    Код прототипа находится [тут](market_proto.php)
